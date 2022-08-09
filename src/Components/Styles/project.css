@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 800px;
+    display: flex;
+    border: 2px solid goldenrod;
+    justify-content: space-between;
+}
+
+.delite_review {
+    margin: 5px;
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.info_block{
+    margin: 5px;
+    line-height: 1.5em;
+}
+
+.text{
+    line-height: 1em;
+}
